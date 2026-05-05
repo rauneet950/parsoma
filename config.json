@@ -1,0 +1,25 @@
+{
+  "soul_id": "soul-elon-musk",
+  "ens_name": "soul-elon.eth",
+  "testnet": "sepolia",
+  "chain_id": "11155111",
+  "usdc_address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+  "contract_address": "0xf8C4c7523B31F8CAEB328AB403E75F987aB7460A",
+  "platform_wallet": "0x6D5EE220E17C9cF3c48b9eaDefC17Bc5449365D9",
+  "soul_nft_holder_wallet": "0x343aEE40Cc47A2817ACf319c51B5324Cd5ACf262",
+  "riya_wallet": "0xCeB025753bEcED3A89c4583F5fADc6387DA57EB2",
+  "claws": [
+    {
+      "id": "claw-a",
+      "wallet": "0x67A816a10978A415d1EA5f909D501E1b77E1b59f"
+    },
+    {
+      "id": "claw-b",
+      "wallet": "0xF656916b8cd41FCd554F8183505C9Bee840bf094"
+    },
+    {
+      "id": "claw-c",
+      "wallet": "0x2e43f8dAb3eA6DF7112e24808693e20507a5e99f"
+    }
+  ]
+}

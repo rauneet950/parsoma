@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude / Gemini
+.claude/
+.gemini/
+
+# === Persoma-specific exclusions ===
+
+# Private keys — NEVER push
+*.pem
+
+# Environment secrets
+.env
+.env.*
+
+# Prompt / planning docs (internal only)
+prompt.md
+prompt1.md
+phases.md
+error.md
+output.md
+resources.md
+data_flow_daigram.md
+
+# Compiled node binary
+node
+
+# Node modules
+node_modules/
+
+# Hardhat artifacts & cache
+contracts/artifacts/
+contracts/cache/
+contracts/types/
+
+# ENS node_modules
+ens/node_modules/
+
+# Buildkite
+.buildkite/
+CLAUDE.md
+AGENTS.md

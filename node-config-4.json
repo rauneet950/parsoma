@@ -1,0 +1,7 @@
+{
+    "PrivateKeyPath": "claw-c.pem",
+    "Peers": ["tls://127.0.0.1:7002"],
+    "Listen": [],
+    "api_port": 9032,
+    "tcp_port": 7002
+}
