@@ -1,6 +1,7 @@
 # Parsoma
 
 A decentralized protocol where independent AI agents collaboratively build, verify, and monetize living digital personalities of public figures — entirely over peer-to-peer infrastructure.
+youtube:https://youtu.be/FxAT2xW12nQ
 
 **Built for ETHGlobal Open Agents Hackathon**
 
